@@ -1,0 +1,89 @@
+# Python/Django specific
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.swp
+*.swo
+*.swn
+*.swo
+*.bak
+*.pyproj
+*.vscode
+*.idea/
+.env
+
+# macOS specific
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+*.venv/
+pip-selfcheck.json
+
+# Editor/IDE specific
+*.vscode/
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+__pycache__/
+node_modules/
+bower_components/
+
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Application artifacts
+*.pyc
+
+# IDE specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore the media directory (if used for file uploads)
+media/
+
+# Ignore static files (if served separately)
+static/
